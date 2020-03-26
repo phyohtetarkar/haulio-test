@@ -11,7 +11,7 @@
 # Landscape
 
 <p float="left">
-  <img src="Screenshots/login_land.png"  width="100" height="200">
-  <img src="Screenshots/jobs_land.png"  width="100" height="200">
-  <img src="Screenshots/location_land.png"  width="100" height="200">
+  <img src="Screenshots/login_land.png"  width="200" height="100">
+  <img src="Screenshots/jobs_land.png"  width="200" height="100">
+  <img src="Screenshots/location_land.png"  width="200" height="100">
 </p>
