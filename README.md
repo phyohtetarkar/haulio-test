@@ -1,4 +1,4 @@
-# haulio-test
+# Haulio Test
 
 <p float="left">
   <img src="Screenshots/login.png"  width="100" height="200">
