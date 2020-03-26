@@ -4,6 +4,7 @@
   <img src="Screenshots/login.png"  width="150" height="300">
   <img src="Screenshots/jobs.png"  width="150" height="300">
   <img src="Screenshots/location.png"  width="150" height="300">
+  <img src="Screenshots/job_location.PNG"  width="150" height="300">
   <img src="Screenshots/search.png"  width="150" height="300">
   <img src="Screenshots/mark.png"  width="150" height="300">
 </p>
